@@ -1,0 +1,83 @@
+NUTR_FOOD_NAME,BRAND_NAME,NUTR_CALORIES_g,CATEGORICAL_CAL,NUTR_TOTAL_FAT_g,FOOD_CAT1,FOOD_CAT2,SOURCE_KEY,MRG_KEY
+Hamburger,A&W Restaurants,350.0,Medium,11.0,Beef,Meat,RESTAURANT,1
+Hamburger,The Varsity,200.0,Medium,9.0,Beef,Meat,RESTAURANT,1
+Hamburger,Black Angus,255.57,Medium,20.0,Beef,Meat,RESTAURANT,1
+Hamburger,Jack in the Box,340.0,Medium,18.0,Beef,Meat,RESTAURANT,1
+Hamburger,Nutrisystem,240.0,Medium,8.0,Beef,Meat,RESTAURANT,1
+Hamburger,McDonald's,250.0,Medium,9.0,Beef,Meat,RESTAURANT,1
+Hamburger,Original Tommy's Hamburgers,460.0,Medium,22.0,Beef,Meat,RESTAURANT,1
+Hamburger,Milo's Hamburgers,340.0,Medium,12.0,Beef,Meat,RESTAURANT,1
+Hamburger,Franz,180.0,Medium,3.0,Beef,Meat,RESTAURANT,1
+Hamburger,POM,160.0,Medium,2.5,Beef,Meat,RESTAURANT,1
+BBQ Ribs - 1 rack (12 ribs),Nutritionix,1523.45,High,114.64,Pork,Not Categorized,RESTAURANT,1
+BBQ Ribs - 1 half rack (6 ribs),Nutritionix,761.72,High,57.32,Pork,Not Categorized,RESTAURANT,1
+BBQ Ribs - 1 large rib,Nutritionix,165.04,Medium,12.42,Pork,Not Categorized,RESTAURANT,1
+BBQ Ribs - 1 small rib,Nutritionix,92.04,Low,6.93,Pork,Not Categorized,RESTAURANT,1
+BBQ Ribs - 1 rib,Nutritionix,126.95,Medium,9.55,Pork,Not Categorized,RESTAURANT,1
+Pork Pie,Pork,373.55,Medium,25.5,Pork,Not Categorized,RESTAURANT,1
+Pork Ribs,Dickey's Barbecue Pit,1280.0,High,107.0,Pork,Not Categorized,RESTAURANT,1
+Pork Ribs,Tony Roma's Grocery,360.0,Medium,18.0,Pork,Not Categorized,RESTAURANT,1
+Pork Back Ribs,Unknown,320.0,Medium,16.0,Pork,Not Categorized,RESTAURANT,1
+Smoked Pork Ribs,Wegmans,170.0,Medium,8.0,Pork,Not Categorized,RESTAURANT,1
+Chicken Salad,Sandwich,482.47,Medium,25.2,Chicken,Meat,RESTAURANT,1
+Chicken Sandwich,Chicken Shack,630.0,High,34.0,Chicken,Meat,RESTAURANT,1
+Spicy Chicken Sandwich,Market Sandwich,520.0,Medium,16.0,Chicken,Meat,RESTAURANT,1
+"Sandwich, Chicken & Provolone",Portland Sandwich,470.0,Medium,21.0,Chicken,Meat,RESTAURANT,1
+BBQ Chicken Sandwich,Cowboy Chicken,640.0,High,23.0,Chicken,Meat,RESTAURANT,1
+Spicy Chicken Sandwich,Church's Chicken,360.0,Medium,19.0,Chicken,Meat,RESTAURANT,1
+Chicken Salad Sandwich,Cowboy Chicken,460.0,Medium,15.0,Chicken,Meat,RESTAURANT,1
+Crispy Chicken Sandwich,Cowboy Chicken,760.0,High,37.0,Chicken,Meat,RESTAURANT,1
+"Flatbread Pocket Sandwich, Chicken Melt",Sandwich Bros.,160.0,Medium,8.0,Chicken,Meat,RESTAURANT,1
+Buffalo Chicken Sandwich,Chester's Chicken,700.0,High,35.0,Chicken,Meat,RESTAURANT,1
+Steak,Mellow Mushroom,140.0,Medium,8.0,Beef,Meat,RESTAURANT,1
+Steak,Salsarita's Fresh Cantina,30.0,Low,1.5,Beef,Meat,RESTAURANT,1
+Steak,Hummus And Pita Co.,200.0,Medium,10.0,Beef,Meat,RESTAURANT,1
+Steak,Great Steak,140.0,Medium,5.0,Beef,Meat,RESTAURANT,1
+Steak,Omaha Steaks,380.0,Medium,30.0,Beef,Meat,RESTAURANT,1
+Steak,Barberitos,180.0,Medium,10.0,Beef,Meat,RESTAURANT,1
+"Eggplant, lentil and quinoa casserole - 1 serving",Nutritionix,140.32,Medium,1.46,Eggplant,Vegetable,RESTAURANT,1
+Eggplant,Chickpea,10.0,Low,0.0,Eggplant,Vegetable,RESTAURANT,1
+Eggplant,Severino,170.0,Medium,7.0,Eggplant,Vegetable,RESTAURANT,1
+Asian Eggplant - 1 eggplant,Nutritionix,80.5,Low,0.53,Eggplant,Vegetable,RESTAURANT,1
+Marinated Eggplant,Cosmo's,15.0,Low,1.0,Eggplant,Vegetable,RESTAURANT,1
+Cauliflower,Giant,25.0,Low,0.0,Califlower,Vegetable,RESTAURANT,1
+Cauliflower,America's Choice,20.0,Low,0.0,Califlower,Vegetable,RESTAURANT,1
+Cauliflower,Green Giant,130.0,Medium,7.0,Califlower,Vegetable,RESTAURANT,1
+Cauliflower,Fresh Thyme,17.0,Low,0.0,Califlower,Vegetable,RESTAURANT,1
+Cauliflower,Kroger,20.0,Low,0.0,Califlower,Vegetable,RESTAURANT,1
+Brocoli,Great Value,25.0,Low,0.0,Brocoli,Vegetable,RESTAURANT,1
+Fresh Riced Brocoli,Wholesome Pantry,100.0,Low,1.0,Brocoli,Vegetable,RESTAURANT,1
+Brocoli Rabe-Rapini,Andy Boy,10.0,Low,0.0,Brocoli,Vegetable,RESTAURANT,1
+Artichokes,Coolgreens,10.0,Low,0.0,Artichokes,Vegetable,RESTAURANT,1
+Artichokes,Forrelli,25.0,Low,2.0,Artichokes,Vegetable,RESTAURANT,1
+Artichokes,Figaro's Italian Pizza,10.0,Low,0.0,Artichokes,Vegetable,RESTAURANT,1
+Artichokes,Diana,90.0,Low,6.0,Artichokes,Vegetable,RESTAURANT,1
+Artichokes,Flora,130.0,Medium,13.0,Artichokes,Vegetable,RESTAURANT,1
+Artichokes,Harris Teeter,70.0,Low,5.0,Artichokes,Vegetable,RESTAURANT,1
+Artichokes,Village Inn,5.0,Low,0.0,Artichokes,Vegetable,RESTAURANT,1
+Artichokes,Buffets,5.0,Low,0.0,Artichokes,Vegetable,RESTAURANT,1
+Mixed Lettuce - 3 cups,Nutritionix,19.98,Low,0.2,Salad,Not Categorized,RESTAURANT,1
+Mixed Lettuce - 1 serving,Nutritionix,19.99,Low,0.2,Salad,Not Categorized,RESTAURANT,1
+Mixed Lettuce - 3 oz,Nutritionix,19.98,Low,0.2,Salad,Not Categorized,RESTAURANT,1
+Salad,Ready Pac,460.0,Medium,32.0,Salad,Not Categorized,RESTAURANT,1
+Salad,Fresh Attitude,350.0,Medium,29.0,Salad,Not Categorized,RESTAURANT,1
+Salad,Pita Pal,70.0,Low,3.5,Salad,Not Categorized,RESTAURANT,1
+Salad,Chef,140.0,Medium,9.0,Salad,Not Categorized,RESTAURANT,1
+Salad,Kum & Go,250.0,Medium,7.0,Salad,Not Categorized,RESTAURANT,1
+Salad,Boar's Head,520.0,Medium,32.0,Salad,Not Categorized,RESTAURANT,1
+Salad,Rapid Fired Pizza,35.0,Low,1.0,Salad,Not Categorized,RESTAURANT,1
+Asparagus,Altar,91.0,Low,0.54,Aspargus,Vegetable,RESTAURANT,1
+Asparagus,Altar,20.0,Low,0.0,Aspargus,Vegetable,RESTAURANT,1
+Asparagus,Riveridge,20.0,Low,0.0,Aspargus,Vegetable,RESTAURANT,1
+Asparagus,Chili's,35.0,Low,1.0,Aspargus,Vegetable,RESTAURANT,1
+Asparagus,H-E-B,25.0,Low,0.0,Aspargus,Vegetable,RESTAURANT,1
+Carrots,Publix,30.0,Low,0.0,Carrots,Vegetable,RESTAURANT,1
+Carrots,Sizzler,10.0,Low,0.0,Carrots,Vegetable,RESTAURANT,1
+Carrots,Coolgreens,10.0,Low,0.0,Carrots,Vegetable,RESTAURANT,1
+Corn,Deseret,80.0,Low,1.5,Corn,Vegetable,RESTAURANT,1
+Corn,Old Country Buffet,10.0,Low,0.0,Corn,Vegetable,RESTAURANT,1
+Corn,Natural Grocers,60.0,Low,0.0,Corn,Vegetable,RESTAURANT,1
+Corn,Hale and Hearty Soups,35.0,Low,0.5,Corn,Vegetable,RESTAURANT,1
+Corn,Wrapido,100.0,Low,1.0,Corn,Vegetable,RESTAURANT,1
+Corn,Chop't,45.0,Low,0.0,Corn,Vegetable,RESTAURANT,1
+Corn,Saladworks,25.0,Low,0.0,Corn,Vegetable,RESTAURANT,1
